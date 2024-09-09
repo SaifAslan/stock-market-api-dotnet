@@ -88,3 +88,5 @@ secrets.json
 
 # Ignore VS Code workspace settings
 .vscode/
+
+appsettings.json
